@@ -6,5 +6,3 @@ Predict **RainTomorrow** from Australian weather data using a full ML pipeline:
 - Models: Logistic Regression, Decision Tree, MLP, RandomForest, **LightGBM**, **CatBoost**, **XGBoost**
 - Soft-voting Ensemble + Decision regions
 - Metrics & comparison plots
-
-## Structure
