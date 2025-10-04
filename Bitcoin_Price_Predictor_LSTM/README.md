@@ -8,8 +8,8 @@ This project trains a **Long Short-Term Memory (LSTM)** neural network to predic
 - `train.py` — Model training & evaluation
 - `inference.py` — Predict next-day prices with sample outputs
 - `data/btc.csv` — Historical Bitcoin price data
+- `output/` — Sample predictions and plots
 
 ## Setup
 ```bash
 pip install tensorflow scikit-learn pandas numpy matplotlib plotly
-
