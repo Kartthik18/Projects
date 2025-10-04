@@ -1,0 +1,14 @@
+Sample 1:
+Input closing prices (last 5 of 60): [5279.35 5268.29 5285.14 5247.35 5350.73]
+Predicted next closing price       : 5361.87
+Actual next closing price          : 5402.70
+
+Sample 2:
+Input closing prices (last 5 of 60): [5268.29 5285.14 5247.35 5350.73 5402.70]
+Predicted next closing price       : 5421.48
+Actual next closing price          : 5505.28
+
+Sample 3:
+Input closing prices (last 5 of 60): [5285.14 5247.35 5350.73 5402.70 5505.28]
+Predicted next closing price       : 5510.64
+Actual next closing price          : 5768.29
