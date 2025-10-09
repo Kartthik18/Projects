@@ -93,4 +93,10 @@ TACTICAL_FILLER = [
     "Extract value intelligence before demolition where possible",
     "Thermal cameras logged irregular heat signatures near the treeline",
     "Local populations call them the 'yellow mouse' in nearby villages",
-    "Reports from scouts mention hostile encounters
+    "Reports from scouts mention hostile encounters but details remain unclear",
+    "Mark LZ candidates; do not land within visible ashfall",
+    "We are observing increased migration patterns from the northern ridge",
+    "This region's flora contains irritants; PPE is advised for all personnel",
+    "Tactical: maintain radio discipline; only encrypted channels unless urgent",
+    "Document each engagement with timestamped multimedia assets",
+]
